@@ -1,0 +1,16 @@
+
+[UltraQuant] Copyright © 2020 Beihang University. All rights reserved.
+2020-04-28 14:28:53.712460
+
+[UltraQuant] Writing config file in the folder...
+
+[UltraQuant] Finished!
+2020-04-28 14:28:53.713457
+
+[UltraQuant] Copyright © 2020 Beihang University. All rights reserved.
+2020-04-28 22:26:01.440316
+2020-04-28 22:26:01,441 - MSLogging.py[line:98] - ERROR: MSFunction, MK449, INI_PATH_LINKER is all right?
+
+[UltraQuant] Copyright © 2020 Beihang University. All rights reserved.
+2020-04-28 22:28:00.304959
+2020-04-28 22:28:00,305 - MSLogging.py[line:98] - ERROR: MSFunction, MK449, INI_PATH_ELEMENT  is all right?
